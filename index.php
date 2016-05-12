@@ -2,10 +2,16 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Quay tay thoả thích!!</title>
+	<title>Quay thoả thích :D</title>
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
 	<script src="http://code.jquery.com/jquery.js"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+
+	<meta property="og:type" content="article" />
+	<meta property="og:description" content="Chúc các bạn xem phim vui vẽ!" />
+	<meta property="og:image" content="http://i.imgur.com/4KQ5c3o.jpg" />
+	<meta property="article:author" content="https://www.facebook.com/duongtuanqb" />
+
 </head>
 
 <body>
